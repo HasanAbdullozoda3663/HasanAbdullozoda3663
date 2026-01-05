@@ -1,69 +1,60 @@
-<h1 align="center">Hi 👋 I'm Hasan Abdullozoda</h1>
+<h1 align="center">Hi 👋, I'm Hasan Abdullozoda</h1>
 <h3 align="center">Python Backend & AI/ML Engineer</h3>
 
 <p align="center">
-  Building scalable backends and production-ready AI systems with Python 🐍
+🚀 Building scalable backend systems and real-world AI solutions
 </p>
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 👨‍💻 About Me
+- 🐍 Python Developer (Backend + AI/ML)
+- 🧠 AI, LLMs, Computer Vision
+- 🌐 API-driven & distributed systems
+- 🤝 Open to collaboration & startups
+- 🌍 Tajikistan
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="SQL" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,js" /></p>
+Python · SQL · JavaScript
 
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
-</p>
+### Backend
+<p><img src="https://skillicons.dev/icons?i=django,flask,fastapi" /></p>
+Django · DRF · FastAPI · Flask · SQLAlchemy
 
 ### Databases & Search
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb,elasticsearch" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb" /></p>
+PostgreSQL · MySQL · Oracle · Redis · ElasticSearch
 
 ### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,firebase,cloudflare" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,firebase" /></p>
+Celery · RabbitMQ · AWS · Docker · ELK · Grafana · Cloudflare · Nginx
 
 ---
 
-## 🤖 AI / ML
+## 🤖 AI / Machine Learning
 
-### Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /></p>
 
-### Vector DBs & LLM Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+NumPy · Pandas · SciPy · Matplotlib · Seaborn · Scikit-learn  
+PyTorch · TensorFlow · OpenCV · DeepFace  
+LangChain · LangGraph  
 
-<p>
-  FAISS · Qdrant · ChromaDB · LangChain · LangGraph
-</p>
+**Vector DBs:** MongoDB · Qdrant · ChromaDB · FAISS
 
-### ML Developer Tools
-<p>
-  Jupyter · Colab · MLflow · W&B · HuggingFace · CUDA
-</p>
+**ML Tools:** Jupyter · Colab · MLflow · W&B · HuggingFace · ONNX · CUDA · FastAPI
 
 ---
 
-## 🤝 Open to Collaboration
-
-- AI / ML systems
-- Backend platforms
-- LLM & RAG solutions
-- Startups & research
+## 🤝 Collaboration
+AI/ML · Backend · LLM & RAG · Startups · Research
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanAbdullozoda3663&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanAbdullozoda3663&show_icons=true&theme=tokyonight" height="150"/>
 </p>
