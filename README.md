@@ -51,7 +51,6 @@ LangChain · LangGraph
 ### Vector Databases & Retrieval
 <p>
   <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" height="36"/>
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma.png" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
 
