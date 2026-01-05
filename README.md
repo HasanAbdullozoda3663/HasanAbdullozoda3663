@@ -54,7 +54,3 @@ LangChain · LangGraph
 AI/ML · Backend · LLM & RAG · Startups · Research
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanAbdullozoda3663&show_icons=true&theme=tokyonight" height="150"/>
-</p>
